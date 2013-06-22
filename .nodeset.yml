@@ -1,0 +1,20 @@
+---
+default_set: 'centos-64-x64'
+sets:
+  'centos-64-x64':
+    nodes:
+      'main.vm':
+        prefab: 'centos-64-x64'
+  'ubuntu-server-1204-x64':
+    nodes:
+      'main.vm':
+        prefab: 'ubuntu-server-12042-x64'
+  'debian-60-x64':
+    nodes:
+      'main.vm':
+        prefab: 'debian-60-x64'
+  'debian-70-x64':
+    nodes:
+      'main.vm':
+        prefab: 'debian-70-x64'
+

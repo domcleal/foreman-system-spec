@@ -1,0 +1,21 @@
+## MAC OS
+.DS_Store
+
+## TEXTMATE
+*.tmproj
+tmtags
+
+## EMACS
+*~
+\#*
+.\#*
+
+## VIM
+*.swp
+tags
+
+Gemfile.lock
+.rbenv*
+.rvmrc*
+.ruby_version
+.rspec_system
